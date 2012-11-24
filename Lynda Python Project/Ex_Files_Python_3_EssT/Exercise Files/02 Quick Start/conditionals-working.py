@@ -9,3 +9,4 @@ else:
 print('foo')
 print('foo' if a > b else 'bar')
 print('foobar')
+
